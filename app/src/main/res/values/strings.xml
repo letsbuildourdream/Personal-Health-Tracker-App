@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Personal Health Tracker Application</string>
+    <string name="user_profile" translatable="false">User Profile</string>
+    <string name="exercise_tracking" translatable="false">Exercise Tracking</string>
+    <string name="diet_tracking" translatable="false">Diet Tracking</string>
+    <string name="summary" translatable="false">Summary</string>
+    <string name="next" translatable="false">Next</string>
+</resources>
